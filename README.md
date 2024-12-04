@@ -1,2 +1,2 @@
-# Finger-T
+# About me
 My Personal Repo
